@@ -1,3 +1,11 @@
+-- ***************************************************************************************
+-- *  REFERENCES
+-- *  Title: How to make a Platformer Game!
+-- *  Date: 10/17/2024
+-- *  URL: https://nerdyteachers.com/Explain/Platformer/
+-- *
+-- ***************************************************************************************
+
 function _init()
     game_start()
     text = ""
